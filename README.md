@@ -1,26 +1,4 @@
-Nice — love the energy. Below is a **practical, realistic, zero→hero 30-day plan** to become a strong Android developer who can build, test, and ship high-quality apps. I’ll give you the recommended modern stack, day-by-day tasks, small projects to build, a code-quality checklist, and next steps after day 30.
 
----
-
-# Quick foundation (what to focus on first)
-
-* **Language:** Kotlin (Android’s recommended language — start here). ([Android Developers][1])
-* **IDE / Tooling:** Android Studio (download latest stable and set up emulator, SDKs). ([Android Developers][2])
-* **UI:** Jetpack Compose — modern declarative UI for Android. ([Android Developers][3])
-* **Architecture & libs:** Jetpack components (ViewModel, Room, WorkManager, DataStore), Hilt for DI, Kotlin Coroutines + Flow, Retrofit/OkHttp (networking). (These are the “standard toolbelt” for modern apps.) ([Android Developers][4])
-* **Study path:** use Google’s official Compose + Kotlin learning paths / codelabs as you go. ([Android Developers][5])
-
-> Short, honest note: 30 days won’t make you a master of everything, but it *will* make you capable of producing well-structured, production-quality apps and the confidence to keep leveling up.
-
----
-
-# How to use this plan
-
-* Assume **2–3 hours/day** (if you can do 4+ hrs/day you’ll finish faster).
-* Follow the day tasks, *code along*, commit every day to GitHub, and build the mini-project for each week.
-* Keep mistakes — treat them as learning points. Read official docs and the sample repo “Now in Android” as reference code. ([GitHub][6])
-
----
 
 # 30-Day Plan — daily tasks + deliverables
 
